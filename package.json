@@ -2,12 +2,12 @@
   "name": "Haruka-Md",
   "version": "10.0.2",
   "description": "whatsapp tob with multi device.",
-  "main": "haruka.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "start": "node haruka.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -16,7 +16,7 @@
     "baileys-md"
   ],
   "author": "ZeeoneOfc",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys@6.0.7",
     "@adiwajshing/keyed-db": "^0.2.4",
