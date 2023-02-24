@@ -19,7 +19,3 @@ function start() {
 	})
 }
 start()
-
-///
-process.on('uncaughtException', console.error)
-///
